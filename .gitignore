@@ -1,0 +1,17 @@
+# Secrets and private local configuration
+.env
+*.env
+config.py
+secrets.py
+
+# Runtime data
+bot.log
+bot.pid
+downloads/
+__pycache__/
+*.py[cod]
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
